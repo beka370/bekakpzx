@@ -1,0 +1,104 @@
+body {
+    background-color: darkcyan ;
+    margin-top: 500px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 300px;
+}
+.beka {
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    align-items: center;
+    text-align: center;
+    margin-right: 400px;
+}
+.beka-aga {
+    background-color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 600px;
+
+}
+.salam {
+    display: flex;
+
+}
+.ini {
+    padding-top: 30px;
+    padding-left: 500px;
+    gap: 100px;
+}
+.qwe {
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px 150px;
+    align-items: center;
+    text-align: center;
+    margin-right: 400px;
+}
+.qwert {
+    display: flex;
+    justify-content: space-between;
+}
+.beks img {
+width: 500px;
+height: 300px;
+}
+.katya img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.katya-adlet {
+    display: flex;
+    gap: 30px;
+    
+}
+.sagat img {
+    width: 200px;
+    height: 200px;
+} 
+.ufg img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+
+}
+
+.koish {
+    display: flex;
+    gap: 30px;
+}
+.sabir {
+    padding-bottom: 100px;
+    justify-content: space-around;
+   
+
+}
+.assyl {
+    display: grid;
+    grid-template-columns: 1000px 1000px  ;
+    grid-row: 300px 300px ;
+    grid-column: 300px 300px;
+    
+}
+.koishta {
+    display: flex;
+    position: absolute;
+    padding-left: 1000px;
+    gap: 30px;
+
+}
+.koisht {
+    display: flex;
+    gap: 30px;
+    position: absolute;
+    padding-left: 1000px;
+    
+    
+
+} 
+.neboldi {
+    background-color: aliceblue;
+}
+
+
+
